@@ -266,7 +266,7 @@ td.expense {
 #form form input {
     border: none;
     border-radius: 0.2rem;
-
+    color: black;
     font-size: 1.125rem;
 
     padding: 0.8rem;
